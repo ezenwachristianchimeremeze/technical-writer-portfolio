@@ -21,3 +21,11 @@ This repository supports my professional positioning in technical writing, devel
 ## Reviewing the samples
 
 The PDF files are project artifacts. Read each document's scope, date, assumptions, and verification notes. A report or design document should not be interpreted as independent certification of a live production system.
+
+## Personal biography and search profile
+
+- [Personal biography (Markdown)](ABOUT.md)
+- [Public profile page](https://ezenwa-christian.netlify.app/about-ezenwa-christian-chimeremeze.html)
+- [XML sitemap](https://ezenwa-christian.netlify.app/sitemap.xml)
+
+The profile page describes my background, professional focus, public writing, projects, and long-term ambitions. Project descriptions distinguish current work and future concepts from completed products. The profile uses my public professional links as identity references.
